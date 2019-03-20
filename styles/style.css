@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.container {
+	width: 56%;
+	margin: 0 auto;
+	background-color: #F5F7E7;
+	height: 100%
+}
+
+.fl_game {
+	margin: 0 auto;
+	width: 74%;
+}
+
+.screen {
+	width: 100%;
+}
+
+p {
+	text-align: center;
+}
+
+.logo {
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 25px;
+}
+
+.game_name {
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+.game_desc {
+	text-align: center;
+	margin: 0 auto;
+	font-size: 17px;
+	margin-top: 20px;
+	width: 60%
+}
+
+.game_desc a {
+	color: #2767B4;
+	text-decoration: none;
+}
+
+.end {
+	padding-top: 40px;
+}
+
+#end {
+	padding-top: 120px;
+}
+
+.emu_game {
+	margin: 0 auto;
+	width: 55%;
+}
+
+.game_name_main {
+	font-size: 19px;
+}
+
+.button {
+	color: white;
+	text-decoration: none;
+	background-color: green;
+	padding: 20px;
+	margin: 80px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 16px;
+	
+}
+
+.game_desc_main {
+	padding-left: 20px;
+	margin-top: 100px;
+	align-items: center;
+	text-align: center;
+	font-size: 17px;
+	margin: 0 auto;
+	width: 60%	
+}
+
+#ass {
+	margin: left;
+}
+
+.button_p {
+	margin-top: 30px;
+}
+
+.margin {
+	margin-top: 100px;
+}
+
+.game_desc_main1 {
+	margin-top: 100px;
+	align-items: center;
+	text-align: center;
+	font-size: 17px;
+	margin: 0 auto;
+	width: 60%
+	padding:0;
+	margin-top: 30px;
+	padding-left: 20px;
+}
