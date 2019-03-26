@@ -6,7 +6,7 @@
 .container {
 	width: 56%;
 	margin: 0 auto;
-	background-color: #F5F7E7;
+	background-color: #FFFCE4;
 	height: 100%
 }
 
@@ -71,7 +71,7 @@ h1 {
 .button {
 	color: white;
 	text-decoration: none;
-	background-color: green;
+	background-color: #6EC547;
 	padding: 20px;
 	margin: 80px;
 	padding-left: 30px;
